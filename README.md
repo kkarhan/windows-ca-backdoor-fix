@@ -1,8 +1,8 @@
 #	Windows CA Backdoor Fix*
 
 Fixes a critical backdoor in Windows' CryptoAPI, which allows to unconsenting Update of CA Certificates in the background. 
-- See [c't 17/2013 article](https://web.archive.org/web/20160507122657/https://www.heise.de/ct/ausgabe/2013-17-Zweifelhafte-Updates-gefaehrden-SSL-Verschluesselung-2317589.html) [(excerpt)](https://web.archive.org/web/20250112132700/https://www.heise.de/news/Windows-Dynamische-Zertifikat-Updates-gefaehrden-SSL-Verschluesselung-1925115.html).
-- And The applicable [research paper](https://web.archive.org/web/20120227105047/http://files.cloudprivacy.net/ssl-mitm.pdf) by Christopher Soghoian and Sid Stamm.
+- See [c't 17/2013 article](https://web.archive.org/web/20160507122657/https://www.heise.de/ct/ausgabe/2013-17-Zweifelhafte-Updates-gefaehrden-SSL-Verschluesselung-2317589.html) [(excerpt)](https://web.archive.org/web/20250112132700/https://www.heise.de/news/Windows-Dynamische-Zertifikat-Updates-gefaehrden-SSL-Verschluesselung-1925115.html) (both in German).
+- And the applicable [research paper](https://web.archive.org/web/20120227105047/http://files.cloudprivacy.net/ssl-mitm.pdf) by Christopher Soghoian and Sid Stamm.
 
 OFC [Microsoft claims](https://web.archive.org/web/20130803093444/http://blogs.technet.com/b/microsoft_presse/archive/2013/07/31/microsoft-statement-zu-medienberichten-wie-windows-hintert-252-r-gef-228-hrdet-internetverschl-252-sselung.aspx) this is *not a backdoor*.
 - Given past and present intransparency as well as [legislation](https://en.wikipedia.org/wiki/CLOUD_Act) that prevents them from being honest, I'd be doubtful about that.
